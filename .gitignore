@@ -3,3 +3,6 @@
 ################################################################################
 
 /bin
+/src/WPFAudioPlayer/.vs
+/src/WPFAudioPlayer/WPFAudioPlayer/bin
+/src/WPFAudioPlayer/WPFAudioPlayer/obj
